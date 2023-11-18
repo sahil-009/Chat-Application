@@ -1,7 +1,7 @@
 Step 1: Clone the repo
 
 ```bash
-git clone 
+git clone https://github.com/sahil-009/Chat-Application.git
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -21,6 +21,10 @@ Step 4: Start the chat app
 ```bash
 npm start
 ```
+
+## Author
+- [**sahil mund**]
+- 
 ## License
 
 This project is licensed under the MIT License.
