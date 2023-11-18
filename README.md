@@ -24,7 +24,7 @@ npm start
 
 ## Author
 - [**sahil mund**]
-- 
+- [**pk prajyot**]
 ## License
 
 This project is licensed under the MIT License.
